@@ -11,4 +11,4 @@ jobs:
     if: github.repository_owner == 'manna-harbour'
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["crkbd"]'
+      keyboard: '["keebio/iris/rev6b"]'
